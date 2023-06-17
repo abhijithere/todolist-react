@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap");
+body{
+background-color: rgba(213, 211, 211, 0.649);
+}
+input,
+input:focus,
+input:active,
+input:active:focus {
+  border: none;
+  outline: none;
+}
